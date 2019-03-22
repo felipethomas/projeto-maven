@@ -28,5 +28,6 @@ Comandos
 - export PATH=/home/01308900490/apache-maven-2.2.1/bin:$PATH  
   
 Comandos    
-- source /etc/profile (reiniciar a sessão do usuário)  
+- source /etc/profile  
+- (reiniciar a sessão do usuário)   
 - mvn --version  
