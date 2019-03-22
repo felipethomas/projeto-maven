@@ -31,3 +31,6 @@ Comandos
 - source /etc/profile  
 - (reiniciar a sessão do usuário)   
 - mvn --version  
+
+### Comandos bash
+- PS1="\e[01;32mprojeto-maven:\e[m "
